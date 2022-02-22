@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The invisible power of God known in weakness with a Christian testimony of the experience and sufferings of Edward Brush, aged ninety one years / by him tenderly recommended to all moderate and well-inclined people.</title>
+            <author>Brush, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29930</idno>
+            <idno type="STC">Wing B5239</idno>
+            <idno type="STC">ESTC R31993</idno>
+            <idno type="EEBO-CITATION">12293438</idno>
+            <idno type="OCLC">ocm 12293438</idno>
+            <idno type="VID">58939</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29930)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58939)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1501:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The invisible power of God known in weakness with a Christian testimony of the experience and sufferings of Edward Brush, aged ninety one years / by him tenderly recommended to all moderate and well-inclined people.</title>
+                  <author>Brush, Edward.</author>
+               </titleStmt>
+               <extent>29, [i.e. 18] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: From the Bull and Mouth Meeting-House, in Marvin Le-Grand, the 15th of the 7th month, 1688, Edward Brush.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conversion --  Early works to 1800.</term>
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58939:1" rendition="simple:additions"/>
+            <p>THE Inviſible Power Of GOD <hi>Known in Weakneſs.</hi>
+            </p>
+            <p>WITH A Chriſtian Teſtimony of the Experience and Sufferings of <hi>Edward Bruſh,</hi> Aged Ninety One Years.</p>
+            <p>BY HIM Tenderly recommended to all moderate and well-in<g ref="char:EOLhyphen"/>clined People.</p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> near the Meeting-Houſe in <hi>White-hart-Court</hi> in <hi>Gracious-ſtreet,</hi> and at the <hi>Croocked-Billet</hi> in <hi>Holy-well-lane,</hi> near <hi>Shoreditch,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:58939:2"/>
+            <pb n="3" facs="tcp:58939:2"/>
+            <head>The Inviſible Power of GOD made known in Weakneſs, with a Chriſtian Teſtimony of the Experience and Sufferings of <hi>EDWARD BRUSH,</hi> Aged Ninety One Years: By him Tenderly Recommended to all moderate and well-inclined People.</head>
+            <p>OH, All People and profeſſors of the Chriſtian Religion, my deſire is, you may ſee and be ſenſible, how that the Lord God of Life and Power, hath manifeſted his Love unto the Sons and Daughters of Men in general, and put his Spirit in their Minds and Conſciences, that thereby they may come to the knowledge of the Truth, and be ſaved by Faith in Chriſt Jeſus. Oh! How greatly doth my Soul and Spirit Travel for your Souls Everlaſting good, and that you may be gathered by Gods Spirit, and power of Holineſs, out of Sin and Tranſgreſſion; which all have fallen into by Diſobedience; which Sin ſtands as a Wall of Separa<g ref="char:EOLhyphen"/>tion betwixt God and all Souls, in which State all Periſh, except they come to know a timely Repentance. But the great and glorious God in his eternal Love, that made man<g ref="char:EOLhyphen"/>kind for a purpoſe of his own Glory, and to ſerve and Worſhip him in his own holy Spirit, would not that Man ſhould periſh; but waits to be Gracious to all the Sons and Daughters of Men; And in the Riches of his Love, hath found out a way in his E<g ref="char:EOLhyphen"/>ternal wiſdom, for to reſtore Man out of his periſhing Condition, and hath Freely given his Son Chriſt Jeſus, to lay down his Life a Ranſome for thoſe that truly believe in him; and in the fulneſs of time, prepared him a Body to do and ſuffer his Heavenly Father's will for us all, that were by Nature Children of Wrath. The Righteous and Holy God, Caſt out the Firſt <hi>Adam</hi> out of Paradice; for Tranſgreſſing his juſt &amp; Holy Law, and notwithſtanding Man's diſ<g ref="char:EOLhyphen"/>obedience,
+<pb n="4" facs="tcp:58939:3"/>God hath ſent forth his only Son a Light into the VVorld, who hath Enlightened all Men that came into the VVorld, that by his Grace and Light which ſhines in their Hearts, they might receive the knowledge of God in the Face of Jeſus Chriſt.</p>
+            <p>And this Inward and Spiritual appearance of Chriſt in your Hearts and Conſciences, you muſt all believe in; which lets you ſee your States and Conditions, and whether you be in a State of wrath and unbelief, or in a State of grace, and have obtained that Faith in Chriſt which overcomes the VVorld? In the days of Chriſt's Fleſh, he did many Glorious things without us, and Dyed for our Sins, and was Buried, and Roſe again for our Juſtification; but until by Faith in Chriſt Jeſus we are turned from Darkneſs to the Light of Chriſt's Spirit within, which makes manifeſt Darkneſs, none can truly Judge what Condition their Souls are in, nor ſee from whence they are fallen: Therefore my Friends, it is in mine Heart to perſwade all to turn their minds inward, and wait on God's witneſs that he hath placed in your Conſciences; for that will give Righteous Judgment. Come home to Gods bleſſed Spirit, to be your Teacher and Leader into all Truth, and out of all Errour, that ſo your Souls may Feed in the green Paſtures of Life. And Oh you Profeſſors of all ſorts! There is a Travel in my Soul, that you come of the Barren Mountains of Profeſſion without, into the poſſeſſion of Chriſt the ſubſtance within; who by his inviſible Power, Renews and Regenerates our Souls to God again, out of that deplorable State into which <hi>Adam</hi> and <hi>Eve</hi> fell, by hearkening to the ſubtil Serpent.</p>
+            <p>I now remember my Darkneſs and Ignorance which I was in, when a Profeſſor of God, Chriſt, and Chriſtianity, and a Zealous Profeſſor without true knowledge; and therefore my Soul is ſtill in Tarvel that all may know God and Jeſus Chriſt whom he hath ſent, in Spirit and in Power: For I was ſeeking the Living amongſt the Dead: And the laſt time I broke Bread and drank Wine, as an ordinance, I heard a Voice within me, ſaying, <hi>What doeſt thou here, ſeeking the Living amongſt the Dead? He is not here he is riſen;</hi> and I can truly experience, I found not that inward refreſhment and ſatisfaction, until by the Power and Spirit of God I was deli<g ref="char:EOLhyphen"/>vered from the Empty Forms and Shadows: Therefore my Soul
+<pb n="5" facs="tcp:58939:3"/>Breathes to God on your behalf, that you may retire your minds inward, to be taught of God, as the Scripture often teſtifies, <hi>They ſhall all be taught of God, and that the Lord will Teach his People him<g ref="char:EOLhyphen"/>ſelf, and the humble God will Teach of his Ways,</hi> &amp;c.</p>
+            <p>And I Teſtify in the Fear of God, that none can VVorſhip God acceptably, until in ſome meaſure they are made partakers of the Spirits Teaching, and have an underſtanding by the Inſpiration of the Almighty, and as they come to believe in Chriſt's Spiritual ap<g ref="char:EOLhyphen"/>pearance in their Souls, he gives them that Living Faith which pu<g ref="char:EOLhyphen"/>rifies their Hearts, and by his Spirit they come to know the myſteries of the Kingdom of God: And until the holy Apoſtle was En<g ref="char:EOLhyphen"/>lightned, and was obedient to God's Power, and made partaker of the Divine Nature of Chriſt within; he did not Preach the Goſ<g ref="char:EOLhyphen"/>pel; neither can any among all ſorts of Profeſſors aſſure themſelves, that they are true Chriſtians, without a ſenſible feeling of the Life of Chriſt revealed in them; for it is not the Name but the Nature that makes true Chriſtians, and without true Faith we cannot pleaſe God.</p>
+            <p>Therefore it is of abſolute neceſſity, that all wait to know a through Change and Renewedneſs to God in Soul, Spirit, and Bo<g ref="char:EOLhyphen"/>dy; for God hath put his pure witneſs in all Men that never con<g ref="char:EOLhyphen"/>ſented to any Evil. And it is God's witneſs that ſecretly Checks and Reproves for Sin in all Men and Womens Conſciences; there<g ref="char:EOLhyphen"/>fore my Soul deſires, that all People do mind the reproof thereof in themſelves, which is the way of Life, to all that are obedient there<g ref="char:EOLhyphen"/>unto, and to abſtain from all appearance of Evil, which is made manifeſt by the Light; and until People be turned to the Light, which makes manifeſt the deeds of Darkneſs, they cannot ſee the Broad way, which leads to Deſtruction; and alſo in the Light of Chriſt Jeſus we come to ſee the Straight and Narrow way, which leads to Life and Salvation: But I do ſpeak in grief of Soul, there are but few (in Compariſon with the many Profeſſors) that are found walking in the ſtraight and narrow Way: There<g ref="char:EOLhyphen"/>fore be you conſiderate, and turn in, to the way of God, which is the Light of Chriſt within you. Do you as <hi>David</hi> did? He conſider<g ref="char:EOLhyphen"/>ed his ways. <hi>Chriſt Jeſus is the Way, the Truth, and the Life; and if any Climb up any other way, they are Thieves and Robbers, he is the Door of entrance into Heaven:</hi> Therefore I beſeech all Profeſſors and
+<pb n="6" facs="tcp:58939:4"/>Prophaneſs, not to content themſelves with ſhadows any longer; but come to believe in Chriſt Jeſus the Subſtance, the Light, the Life, the Door; the Way, the Truth; and all that truly believe in him, for Life and Salvation, they come to an inward Injoyment of him, and feed on him, who is the Bread of Life, which Nouriſhes their Souls up to Eternal Life; and it is the Experience of a Remnant, that until you all come to retire your minds inward, to the Grace and Spirit of God, there can be no ſpiritual Growth Heaven-ward, yet there may be a Literal knowledge of God, but that is not ſaving, becauſe the letter kills, but it is the Spirit that gives Life to the Soul.</p>
+            <p>And it is my rejoycing in God, though in time of Ignorance I went aſtray (and then my Soul did mourn before the Lord) that through the Grace and Mercy of God, my Soul is come to know my Teacher within, that Teacheth me to Profit; giving me an un<g ref="char:EOLhyphen"/>derſtanding in the Myſtery of Godlineſs; for great is the Myſtery of Godlineſs, God manifeſt in the Fleſh, as the Scriptures Teſtifies.</p>
+            <p>
+               <hi>Forms of Religion without Life do not profit,</hi> and I have often con<g ref="char:EOLhyphen"/>ſidered how few in my Native Country of <hi>England,</hi> who made great Profeſſion of Religion, and think themſelves good Chriſtians, know little of the Life and Power of Godlineſs; and though they ſay the Scripture is their Rule, yet walks much Contrary to Gods Command therein, and are far ſhort of being Real Chriſtians; walking in Darkneſs, not knowing whither they go. I ſpeak not this to reflect upon any, but to Caution all to examine their ſelves, and ſee how it is betwixt God and their Souls; for the Light clear<g ref="char:EOLhyphen"/>ly ſhews, ſuch do not do the will of God, nor do they Conſider their later End; and that the All-ſeeing God is nigh to Judge, who will Judge both quick and dead, who is Striving by his Spirit Imme<g ref="char:EOLhyphen"/>diately, and by his Spirit Inſtrumentally in his Servants and Meſſen<g ref="char:EOLhyphen"/>gers, which God hath ſent forth to warn all to repent, and to be<g ref="char:EOLhyphen"/>lieve in the Light Chriſt Jeſus: Therefore let the pure mind in all be ſtired up, and let all be awakened out of their Spiritual Slum<g ref="char:EOLhyphen"/>ber in Sin, and awake to Righteouſneſs, and let the time paſt be ſufficient, that hath been ſpent in Vanity, and Redeem your time, and turn to the Lord by true and unfeigned Repentance; for he or ſhe that regards Iniquity in their Hearts, the Lord will not hear their Prayers. Therefore it concerns all to wait upon God, that
+<pb n="7" facs="tcp:58939:4"/>he may give you Repentance unto Life; for true Repentance God's gift, and they are bleſſed that are truely Humbled under the mighty Hand of God, in the ſenſe of their Sins: 'Tis not every one that ſays, Lord, Lord, but he that doth the will of God is Juſti<g ref="char:EOLhyphen"/>fied: And the truely Penitent mind is in a Praying Frame, and and there is a Praying continually by thoſe that believe in the Light of Chriſt; and Chriſt ever lives to make interceſſion to God for us, and the faithful and obedient ſhall Eat the good of the Land, and they Worſhip God in Spirit, and have no confidence in the Fleſh; but rejoyce in Chriſt Jeſus, and are made New Creatures, and have put off the Old Man with his Deeds.</p>
+            <p>And I muſt needs ſay, my Soul is ſtill in Travel, that all People may have their minds on Heavenly things, and make your calling and Election ſure; and while they have time to prize it, for none can promiſe to themſelves one day: You are often ſaying, We muſt all Dye; but I would have you reflect upon your ſelves, and ſee whether you believe in Chriſt that Enlightens all that comes into the World: And whether you bring your Deeds to the Light, and know them wrought in God; for the Light of Chriſt will give righteous Judgment, whether they be wrought in God: And we muſt all give Account to God, and receive a Juſt Reward according to our doings. Therefore deal faithful with your own Souls, and ſee what is the Frame of your Spirit, and conſider your ways and doings.</p>
+            <p>And know that he or ſhe that Bridles not their Tongues, all their Religion is Vain: Therefore it is my Soul's deſire that you be<g ref="char:EOLhyphen"/>lieve in Chriſt, and come to partake of his Divine Nature, that ſo you may know Chriſt in you the Hope of your glory; for if you know not this, you are in a Reprobate State: And therefore let all be deeply concerned to lay hold of Eternal Life, and know Chriſt dwell in your Hearts by true Faith that ſtands in the Power of God; for it is not the Traditional Faith, nor Hiſtorical Faith of Man's making, will ſtand you inſtead in a Dying Hour; but the true and living Faith which ſaves, is wrought in the Soul by the Spirit of God: Therefore my Tender deſire is, that all may retire inward to the gift of God's Grace and Spirit; becauſe <hi>what is to be known of God, is manifeſt within,</hi> 1 Rom. 19. and my Soul with many more, doth witneſs the ſame, and the day is come, in which God hath fulfilled his promiſe, and poured out his Spirit upon many Sons and
+<pb n="8" facs="tcp:58939:5"/>Daughters, and they Propheſie, <hi>Joel.</hi> 2.29. And God hath raiſed many Sons and Daughters, Servants and Handmaids, to Preach the Everlaſting Goſpel again in this later Age of the World, and Endued them with Wiſdom from above, and given them know<g ref="char:EOLhyphen"/>ledge in the Myſterys of his Eternal Kingdom; and in meaſure hath made my Soul Partaker of his Love in Chriſt Jeſus, and of his Spi<g ref="char:EOLhyphen"/>ritual Appearance in the Inward Man. And to the Praiſe of God I can ſay, the grace of God hath ſo Qualified my Soul, by its ſecret Teachings within, that when the Miniſters and Meſſengers of God came out of the <hi>North</hi> and elſewhere, to Preach the Goſpel of Glad-Tidings to the Poor, about Forty Years by-paſt; what was Preach<g ref="char:EOLhyphen"/>ed in me, was openly Preached as on the Houſe-Top in the Quakers Meetings, and my Soul did Cleave to them, and Readily embraced the Goſpel, which is God's Power to Salvation in all that believe, and which hath been Life to my Soul ever ſince; and my Soul was brought near, and into Acquaintance with God, and his Meſſen<g ref="char:EOLhyphen"/>gers were Inſtruments in God's Hand, to open the way of Life to me; all Praiſes be given to God through Chriſt Jeſus. And now Life is with them, who truly Preach to the Spirits, yet in Priſon a<g ref="char:EOLhyphen"/>mongſt the Children of Men, to deliver them that are in Bondage; and the Preſence of God with them, hath cauſed many to incline to God's Spirit's Teaching: For the great God that made Heaven and Earth, is ſetting up his Kingdom in the Hearts and Spirits of his People that believe; and is Calling to come to his Holy Moun<g ref="char:EOLhyphen"/>tain; and for ever bleſſed are all they that hearken to his Heavenly Voice in their Souls: And my Soul's deſire is, that both Prieſts and People, would conſider in themſelves, to come out of Spiritual <hi>Babylon,</hi> and deny the Spirit of the World, and come to the Spirit of God; for the Children of God are led by his Spirit; and the rea<g ref="char:EOLhyphen"/>ſon why many are yet in Myſtery <hi>Babylon,</hi> is becauſe, the Blind lead the Blind, and both remain in Death and Darkneſs through unbelief, though the true Light now ſhineth in the Sons and Daughters of Men.</p>
+            <p>Therefore I beſeech all in the Love of God, to hearken to the Council Chriſt gives in the 2. and 3. <hi>Chapter</hi> of the <hi>Revelation;</hi> To hear what the Spirit ſaith; and until you feel the Spirit of God to quicken your Souls, and make them alive to God, and open your underſtandings, you are in Darkneſs not knowing what you
+<pb n="9" facs="tcp:58939:5"/>ſay, nor whereof you affirm in the Myſteries of God and Chriſt Jeſus.</p>
+            <p>For our God hath appeared to his People in his Light and Grace, and given us an underſtanding to know him that is True, and we are in him that is True; and by a living Faith, are united in Spirit, and are not of thoſe that draw back to perdi<g ref="char:EOLhyphen"/>tion by unbelief, (as ſome do) but believe to the ſaving of our Souls, and by Vertue of the Light of Chriſt revealed in us, we feel a Spiritual Growth towards perfection: And though the Enemy be near to aſſault and tempt, and Transform himſelf like to an Angel of Light, and calls good evil and evil good, whereby in times paſt he deceived me, to my great ſorrow; but by God's grace, which was nigh to let me ſee the danger, he gave me Power to Abſtain from the appearance of that Evil, of which I ſpeak to God's Eternal Praiſe; and where Sin abounded, the grace of God did more abound, and where grace abounds, ſelf is made of no reputation: And it is God in Chriſt that works all in us and for us, bleſſed for ever.</p>
+            <p>For when the Corrupt Nature bears ſway in us, ſuch cannot ſtand in the Croſs of Chriſt, which is the Power of God to Salvation; to ſave from Sin, and to deny their own Wills and Affections, and Fleſh<g ref="char:EOLhyphen"/>ly Luſts that Wars againſt the Soul; but they that wait on God in his own Light, they ſee when good comes, and may ſee the Enemy in all his Appearances and Temptations; and by Gods grace reſiſt the Devil, who ſeeks to Devour that precious Seed of Life, that God hath ſowne in all; you have Read of Four ſorts of Ground, but one good, which is an honeſt and upright Heart to God in his Truth, and brings forth good Fruit: I cannot but remember that ſome of you that are now Profeſſors, were ſo about Sixty Years ago; and it will do you no hurt to examine your ſelves, and ſee whether you are grown nearer to God and Chriſt, and what Fruit you bring forth: I know you have a Form of Godlineſs, examine whether you do not deny the Power thereof? Are you not as formal as ever in the Worſhip of God, whom you confeſs to be a pure Spi<g ref="char:EOLhyphen"/>rit? Are your underſtandings made more Heavenly? Or do you not keep up the Form without Life and Power, which cauſes many to leave you? And are not ſome of you Proud and Vain in your Dreſſes? and Ignorant of Chriſt's appearing in your Souls,
+<pb n="10" facs="tcp:58939:6"/>and do you bring forth the Fruits of the Spirit, as Love, Joy, Peace in believing? <hi>&amp;c.</hi> or rather the Fruits of the Fleſh, whereby you cannot pleaſe God? Let the witneſs of God in you anſwer.</p>
+            <p>You know that the Great and Glorious God, in the beginning, made Mankind the Chiefeſt of his Creation; but you Read in Holy Writ, Man fell from that pure State by diſobedience, and know that until he be Regenerate and Born again by the Word of Life, and raiſed by Chriſt, who is the Reſurrection and Life, Man is in a pe<g ref="char:EOLhyphen"/>riſhing Condition: And it is the deſire of my Soul, that all People may come to witneſs the Power of his Reſurrection in the inward Man, which Deſtroys the works of the Devil and Sin, which ſtands as a Wall of Separation betwixt Man and his Maker; for God is Holy, and of more pure Eyes than to behold Iniquity. Therefore Fear and Dread before him, who is the Living God, that Changes not, but the ſame Today, as Yeſterday and for Ever; there is no God like unto him; for he is a preſent help in the time of need, and univerſal in his Love and Power, Mighty to ſave all that believe in his Spiritual appearance. Therefore all Friends and People every where, let none go about to Diminiſh or Slight the appearance of Chriſt's Spirit and Power in the Soul of any Man or Men; for God hath made me a living witneſs with many others, it is our great Comfort in all ſtreights and neceſſities, Spiritual and Tem<g ref="char:EOLhyphen"/>poral. But ſome that are now Wiſe in their own Eyes, who were concerned formerly to appear for the Inward appearance of Chriſt, (with whom I had then Unity) now their Love ſeems to be aba<g ref="char:EOLhyphen"/>ted to that, and they like the Fooliſh <hi>Galatians,</hi> though they be<g ref="char:EOLhyphen"/>gun in the Spirit, now ſeek to be made perfect by the Fleſh, that is, in their Fleſhly Carnal wiſdom, and Literal underſtanding, wherein they are contending, Conceiting themſelves to know more than what has been manifeſted and made known to the Wor<g ref="char:EOLhyphen"/>thies and Elders in Spiritual <hi>Iſrael,</hi> in this day of Light and Life, wherein the Holy Unction is known, which Teacheth us of all things; for he that firſt deſcended, who is the ſame that aſcended, and is Set on the Right Hand of the Throne of the Majeſty in the Heavens, he is our High Prieſt and Miniſter, <hi>Heb.</hi> 8 and lives for ever to make interceſſion for us, being the only Mediator be<g ref="char:EOLhyphen"/>tween God and Men, which they receive the benefit of, who are
+<pb n="11" facs="tcp:58939:6"/>truely Humbled in the ſenſe of their own nothingneſs; theſe do not exalt their own Fleſhly Wiſdom, but ſtand in a Croſs to their own will, and are eaſily Entreated, ſuch Demonſtrate the Fruit of the Spirit in Meekneſs, Gentleneſs, and Patience; which carries a greater Evidence with it, than any Teſtimony in words only: And it is in vain to Preach from other Men Lines, and ſpeaks from the Letter only, thoſe things they do not Experience, ſuch Preaching doth not profit the People, neither can they thereby be edified; for the wiſdom from below, and Fleſhly knowledge puffs up, and vaunts it ſelf, but the Love of God Edifies: And where the Truth bears ſway in the Soul, ſelf is abaſed, and made of no Reputation.</p>
+            <p>And the great and mighty God, is making good his Promiſes, that <hi>the People ſhall flow to his holy Mountain, and flee like Doves to the Windows,</hi> Iſa. 12.16.</p>
+            <p>And the great and notable day of God is come, wherein the the knowledge of God ſhall abound, and cover the Earth as the Waters cover the Seas.</p>
+            <p>Therefore let every Soul be truly faithful to what they know, and be willing and obedient, ſuch ſhall Eat the good of the Land, as many do Experience, magnified be the Name of our God, ſaith my Soul; which hath found the comfort of meeting with his People (commonly called <hi>Quakers</hi>) to wait on God Forty Years by-paſt; and ſuch that wait on God in Sincerity and Uprightneſs of Heart (according to God's promiſe) ſhall renew their ſtrength; for the Power and Preſence of God is near to help ſuch, againſt all oppoſition whatſoever.</p>
+            <p>But there are many People, that Content themſelves with a bare reading the Scriptures of Truth; but do not know that Spi<g ref="char:EOLhyphen"/>rit that gave them forth; therefore ſuch greatly need to wait on God, to be inſpired by the ſame Spirit, that you may underſtand them; for Chriſt ſaid to the Jews, <hi>you read the Scriptures, for in them you think to have Eternal Life;</hi> for they Teſtifie of Chriſt, but he blames them, for not coming to him, in whom is Life; and with ſorrow I tell you, that Life is wanting among many that make a large Profeſſion of Chriſt in words, yet ſlight and reject the Spirit's Teachings; ſuch my Soul pities, and I Pray God to rend the Vail of Darkneſs, that is over their Minds, who think
+<pb n="12" facs="tcp:58939:7"/>themſelves good Chriſtians, becauſe they have a form of Religi<g ref="char:EOLhyphen"/>on, and ſpeak good words in their own wills, and Practice quite contrary. I accuſe none, but let all be cautioned, leſt they are found falſe witneſſes; for one ſpeaks in the Light and Life of Truth; but the other ſpeaks by Immaginations: And ſome outſide Profeſſors, that love the praiſe of Men, and would be thought ſomebody in Religion, are but Lukewarm, neither Hot nor Cold; ſuch the holy God doth Abominate, except they come to believe and walk more Sincerely; for God loves Truth in the Heart, both of Male and Female.</p>
+            <p>And the Holy Glorious God, hath Viſited my Soul, and hath ſhewed me, that as little <hi>David</hi> with his Sling, and Stone out of the Brook, ſlew great <hi>Goliah,</hi> that defied <hi>Iſrael,</hi> and thoſe that took part with him were ſcattered; even ſo the mighty God by his Inviſible Arm of Power, will ſcatter all Feigned ſhews of Re<g ref="char:EOLhyphen"/>ligion without Life, and cauſe them to Vaniſh like ſmoke; for which my Soul magnifies the Glorious Name of our God, in Co<g ref="char:EOLhyphen"/>venant with his People.</p>
+            <p>And now I beſeech all, that in any meaſure have taſted of the Love of God, to be ſtill incouraged to wait on God in Spirit and in the Faith of God's Elect, which Purifies the Heart; and Pray to God in Sincerity for Life and Salvation, which is only to be had through Faith in Chriſt Jeſus.</p>
+            <p>Therefore let all People Dread and Fear the All-ſeeing and Heart-ſearching God, both of Profeſſors and Profane, and conſider how it ſtands betwixt your Souls and God; and Examine with the Light of Chriſt in your Conſciences, whether Chriſt be Re<g ref="char:EOLhyphen"/>vealed in you, without which none can have Acceptance with God, nor Worſhip God aright, in Spirit and in Truth. And my Soul's deſire is, that you do not neglect the Day of your Viſitation till it be two late: And in tender Love to your Immortal Souls, I conclude this weighty matter, who truly loves your Souls as mine own;</p>
+            <closer>
+               <signed>Edward Bruſh.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="21" facs="tcp:58939:7"/>
+            <p>AND now dear Friends and People, having through ſome Difficulty and Weakneſs born my Teſtimony to the Truth; remains upon my mind, in a ſenſe of the Love of God, to men<g ref="char:EOLhyphen"/>tion what followeth; how that from my Childhood my mind was inclined to Religion, and the Profeſſors of it, above Eighty Years ago; and I can ſay as <hi>Jacob</hi> did, when he built an Altar at <hi>Bethel,</hi> that God was with me, though I knew it not: And I can do no leſs than admire the goodneſs of God, in putting his Fear into my Inward parts, that I durſt not be ſo Wanton and Fooliſh as many other Children were. When I was but Ten Years Old, then I dwelt with a zealous Man called a Puritan, who was perſecuted for Religion; and in that day I read the Scriptures with delight, and was many times broken into Tears, and did learn good part of a Book called, <hi>The Doctrine of the Bible,</hi> by heart.</p>
+            <p>And about Twelve Years of Age, I came up to <hi>London,</hi> and ſerved Eight Years of Nine by Indenture, and was tender in my Spirit towards God, and my Maſter Dyed of the Plague in the Year 1625. and I purchaſed the Ninth Year, but did not ſo well improve my time as I ought, which when I came to conſider, cauſ<g ref="char:EOLhyphen"/>ed ſorrow to enter my Soul, and my Countenance was changed, and I was exerciſed Inwardly, becauſe of outward ſtraits, but God made uſe thereof to Humble me; and the word ſounded in me, that God would Humble me, that he might do me good in the lat<g ref="char:EOLhyphen"/>ter end, and ſtill my mind was exerciſed about Religion; and I kept Houſe and Servants Twelve Years before I took a Wife, and the Fear of God in my Soul preſerved me from groſs Evils.</p>
+            <p>And now I may ſay ſomething concerning my Suffering and Bani<g ref="char:EOLhyphen"/>ſhment, <hi>Richard Brown</hi> in 1660, or 1661. then Mayor of <hi>London,</hi> ſent me to <hi>Newgate,</hi> only for keeping my Hatt on before him, and there kept me Six or Seven Weeks without <hi>Mittemus,</hi> and in that time the Power of God in me, prepared me for greater Sufferings by Ba<g ref="char:EOLhyphen"/>niſhments; but becauſe my dear Wife was very Tender, I kept my Thoughts from her; and afterward I was carried to the Seſſions, and was Sentanced to Baniſhment for Seven Years; but ſoon after was called to the Bar again, and the Bible was offered me to Swear, I
+<pb n="22" facs="tcp:58939:8"/>told the Court of the old ſaying, <hi>That thoſe that did Swear would Lie.</hi>
+            </p>
+            <p>Then the Judge ſaid, if I would leave going to the <hi>Quakers</hi> Meeting the Sentance ſhould be revoked: I anſwered, that was a<g ref="char:EOLhyphen"/>gainſt my Life. So Alderman <hi>Fredrick</hi> then upon the Bench, and Mayor Elect, did moderate the Judge; But I was ſent again to <hi>Newgate.</hi>
+            </p>
+            <p>And next Morning Hurried with Two more by VVater to <hi>Graveſend,</hi> and many Friends came to take leave of me, which af<g ref="char:EOLhyphen"/>terward returned to <hi>London,</hi> with my beloved Wife <hi>Sarah,</hi> and our Son <hi>Iſaac;</hi> and the Ship ſailed away towards the place intended. And though the Ship was Leaky, and wet my Bed, ſo that I thought ſhe might Sink, yet my mind was ſweetly reſigned to Dye in the Sea; becauſe my Suffering was for Truth, and that did up<g ref="char:EOLhyphen"/>hold me, and all thoughts of outward things came not into my mind, but I was in Peace and Comfort all the Voyage, and in good health; and to God's Eternal Praiſe, I did arrive ſafely in <hi>Jamaico</hi> the Fourth Month called <hi>June,</hi> 1665.</p>
+            <p>And in a few Days after, the Governour ſent for me to his Houſe, and did offer, that if I would give Bond of Two Hundred Pounds, I ſhould have my Liberty in the Iſland, which I refuſed, becauſe I was the Lord's Freeman. And after a while, the Governour re<g ref="char:EOLhyphen"/>ceived an Expreſs from King <hi>Charles</hi> the Second, to ſend me home to <hi>England.</hi> And to God's Praiſe I ſtill ſpeak, and do teſtify, that it is a Precious thing to forſake all for God and his Truth: And I now remember the laſt words I ſpoke in <hi>Jamaico,</hi> to <hi>Jane Hilyar</hi> was theſe;</p>
+            <p>That Holineſs becometh the Houſe of God for ever, and we par<g ref="char:EOLhyphen"/>ted: And paſſing from <hi>Jamaico</hi> by Sea to the Ship, it was in my Heart to breathe to God, to preſerve me ſafe to <hi>England,</hi> and the an<g ref="char:EOLhyphen"/>ſwer of God's Spirit in my Heart was, He would be ſought unto. Some-time after, the Ship run upon <hi>Bohemia</hi> Sholes, where we loſt Anchor, Cables and Plummet; and in the Night-ſeaſon I was con<g ref="char:EOLhyphen"/>ſtrained to break forth into Prayer, ſo that all in the Ship heard me, and the Wind Turning the Ship, and Paſſengers were pre<g ref="char:EOLhyphen"/>ſerved, and the Lord my God was with me all that Voyage, and brought be ſafe to <hi>London,</hi> the Firſt Day of the Third Month, 1660.</p>
+         </div>
+         <div type="letter">
+            <pb n="23" facs="tcp:58939:8"/>
+            <head>
+               <hi>A Coppy of a Letter, formerly ſent to Friends in</hi> Jamacio.</head>
+            <p>MY dear Friends, Breathren &amp; Siſters, I ſalute you all in the Truth, and in a pure remembrance of our Heavenly Father's Love, which my Soul with yours was made partaker of, when preſent with you, is never to be forgotten; and in the renewedneſs thereof, my Soul hath been refreſhed, and at preſent is my Spirit rejoycing in Chriſt Jeſus, who is a Fountain of Light and Life to all that be<g ref="char:EOLhyphen"/>lieve, and obey his holy Spirit's leadings: And I having obtained Mercy from the Lord, it is in my mind in a few lines to viſit the Seed of Life in you; breathing to the God of our Salvation, that we may be preſerved together, in the Holy and Bleſſed Union, and pure Fellowſhip with God, and one another, in his Everlaſting Truth, which we have long made Profeſſion of.</p>
+            <p>O how doth it greatly Concern you, and I, and every particular of us, to Anſwer the Loving kindneſs of our God and Father, that his Light that in meaſure hath Enlightened us, and opened our un<g ref="char:EOLhyphen"/>derſtandings, in the Myſteries of his Kingdom, may ſhine forth in our Lives and Converſations, to the Men of this Generation, with whom we converſe; that we may ſhew forth the Vertue of his Light and Life, freely given to us in Chriſt Jeſus, to the Praiſe of the Name of God who made us for a purpoſe of his own Glory; and that you with me may have an underſtanding, that a meaſure of Light is given to every one to profit with? For our God hath not been wanting to us, but hath given his Spirit to help our In<g ref="char:EOLhyphen"/>firmities; for of our ſelves we can do nothing that is Acceptable in his Sight, but he hath bleſſed us with Spiritual Bleſſings, that our Souls may thrive, in his Grace and Truth that comes by Chriſt, who is the Wiſdom and Power of God, to all that truly Believe, and Wait diligently in his Light and Spirit; ſuch do witneſs him to be revealed in them, to give Life and Comfort to their Immortal Souls; and they that in the Living Faith abide, ſhall obtain Victory over the World's Spirit Within and Without; but if we Suffer our Minds to wander from God, after the fading things of this World, that will bring Death and Darkneſs over your Minds again, and
+<pb n="24" facs="tcp:58939:9"/>the Spirit of this World will dceivee you, as he did <hi>Eve,</hi> by draw<g ref="char:EOLhyphen"/>ing her mind to look out and Eat of that which God had forbidden her, therefore 'tis my hearty deſire to God, that you and I watch diligently againſt the Enemy of our Souls, who works in a Myſte<g ref="char:EOLhyphen"/>ry to deceive, and will appear as an Angel of Light, as he did to me to my ſorrow; for the Devil knew where to lay his bait in tempting me, and telling me it was good; but when the Light began to ſhine in my Heart, I found it to be as contrary to God, as Darkneſs is to Light; and my Soul Magnifies the Lord's Power, over the Spirit and Power of Darkneſs: Therefore dear Friends, ſuffer the word of Exhortation through your Weak and Aged Bro<g ref="char:EOLhyphen"/>ther, who has long been Travelling towards <hi>Sion,</hi> in that way of Truth, which leads to Reſt and Peace, and in a hearty deſire, that you all may be found in a Spiritual Travail, and witneſs a Spiritual Growth in Chriſt, and be renewed in the Spirit of your mind; for he is come near to Judge both Quick and Dead; and they are Bleſſed that do put on the Armour of Light, and are bringing forth fruits of Righteouſneſs before God and Man, they witneſs the Comfort thereof in themſelves. And if any among you hath a Form of Truth, without the Power, ſuch are Spiritually Dead; and Chriſt ſaid, <hi>Ye ſhall know them by their Fruits:</hi> And you that are quickned to God, and have paſſed from death to life, are witneſs of thoſe things; for Light makes manifeſt, and expels Darkneſs, which deadens the Soul to God, and clouds the Underſtanding in the My<g ref="char:EOLhyphen"/>ſteries of his Kingdom.</p>
+            <p>O my dear Friends, let us Joyn to the meaſure of Light in our Souls, to know how it ſtands betwixt God and our Souls; for ac<g ref="char:EOLhyphen"/>cording to his promiſe, he will ſearch <hi>Jeruſalem</hi> as with Candles: Therefore let all ariſe from the Dead, that Chriſt may give you Light; and if you are Riſen with Chriſt, mind Heavenly things: And it doth nearly concern us, that we believe and pray in the Faith of God's Elect, to do his will on Earth as it is done in Heaven. And as the living Members of the Natural Body are ready to help each other; ſo much more will the living Members of the Myſti<g ref="char:EOLhyphen"/>cal Body, of which Chriſt is Head, mutually Love each other, Con<g ref="char:EOLhyphen"/>deſcend, Sympathize, and Help the Weak, and forbear one another:
+<pb n="25" facs="tcp:58939:9"/>And if any be overtaken in a fault, you that are ſtrong and Spiritual to reſtore ſuch an one in the Spirit of meekneſs is precious, and ſuch a Spirit doth well become the Children of Light in this Day of God's Spiritual appearance, which is broken forth in Spirit and Power within, to Judge and Purge out of his People all that is contrary to his mind and Holy will: Therefore dear Friends, let us all wait to feel his Judgments upon the Tranſgreſſing Nature; and this is our Father's Love, to bring us into Conformity to his Son Chriſt Jeſus: And bleſſed is that Eye that Sees and Underſtands theſe things, nothing ſhall Separate their Souls from the Love of God; that which is near and dear as a Right Hand, or Right Eye muſt be parted with, yea, even Life it ſelf, if Required; which brings to my mind the preſerving Arm and Power of my God, both at Sea and Land, in my going abroad, and in my returning home again, and to this Day he hath given me Health and Life, Spi<g ref="char:EOLhyphen"/>ritually, and Enabled me thus to write unto you, being above Ninety Years of Age, tho' with a ſhaking hand, I beſeech you to Receive theſe Lines in the Love of God, manifeſted through this weak Veſſel, for the good of your Souls; for with Longing deſires, I have ſome Years waited for ſtrength, thus to ſignifie the unchange<g ref="char:EOLhyphen"/>able Love of God, who brought me thither, where I felt your love to God, his Truth, and me alſo; and have often thought of the Lord's Servant <hi>John,</hi> who was Baniſht into the Iſle of <hi>Patmos,</hi> where the Myſtery of God was Gloriouſly Revealed unto him, as you Reading with Spiritual ſenſes exerciſed may underſtand.</p>
+            <p>And Pray bear with me, when I was on ſhore on the Iſland of <hi>Jamaico,</hi> a ſerious mind did poſſeſs my Soul, and I ſaid within my Self, now am I here for bearing my Teſtimony to the Truth, what ſhall I now do? And the Lord being preſent with me, did Im<g ref="char:EOLhyphen"/>mediately by his Spirit, Anſwer me in theſe following words, <hi>My Grace is ſufficient for thee,</hi> and by his Grace was my mind ſtayed on the Lord, and tho' weak, God's Power hath been with me to keep me to this Day; all Glory to God, in the beauty of his own Holi<g ref="char:EOLhyphen"/>neſs, be returned to him alone, ſaith my Soul. And God did in meaſure open the Myſteries of his Kingdom to me, and by his con<g ref="char:EOLhyphen"/>ſtraining Power, ſometimes in the Meetings I broke forth in a few
+<pb n="29" facs="tcp:58939:10"/>words in Prayer; and I now Pray to God, who is the Giver of every good and perfect Gift, that we may all be kept low before him, and little in our own Eyes; then his own Name and Power will be Ex<g ref="char:EOLhyphen"/>alted over all, and Fleſhly Wiſdom in the will of Man where the Devil it Seated, will be caſt out, and Self for ever abaſed, and made of no reputation: <hi>Farewel.</hi>
+            </p>
+            <closer>
+               <signed>I am your Brother in the Truth, which is my Strength, <hi>Edward Bruſh.</hi>
+               </signed> 
+               <dateline>From the <hi>Bull</hi> and <hi>Mouth</hi> Meeting-Houſe, in <hi>Mar<g ref="char:EOLhyphen"/>tin Le-Grand,</hi> 
+                  <date>the 15th. of the 7th. Month, 1688.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:58939:10"/>
+            <head>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>next Door to the Meeting-Houſe in</hi> White-Hart-Court <hi>in</hi> Gracious-Street, <hi>and at the</hi> Crooked Billet <hi>in</hi> Hollywell<g ref="char:EOLhyphen"/>lane, Shoreditch.</head>
+            <list>
+               <head>Folio.</head>
+               <item>
+                  <hi>Samuel Fiſher</hi>'s Works.</item>
+               <item>
+                  <hi>Iſaac Pennington</hi>'s Works.</item>
+               <item>
+                  <hi>Francis Howgil</hi>'s VVorks.</item>
+               <item>Chriſtian <hi>Quaker,</hi> by <hi>W.P.</hi> and <hi>G.W.</hi>
+               </item>
+               <item>Antichriſtian Treachery Diſcovered.</item>
+               <item>
+                  <hi>W. Penn</hi>'s Preface <hi>G. Fox</hi>'s Journal.</item>
+            </list>
+            <list>
+               <head>Quarto.</head>
+               <item>
+                  <hi>Stephen Criſp</hi>'s VVorks.</item>
+               <item>
+                  <hi>William Bayly</hi>'s Works</item>
+               <item>
+                  <hi>Humphry Sinth</hi>'s Works.</item>
+               <item>
+                  <hi>William Bennet</hi>'s Works.</item>
+               <item>
+                  <hi>William Dewsberry</hi>'s Works.</item>
+               <item>Spirit Martyrs, prize 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>A brief State and Examination of Liberty Spiritual, by <hi>W. Penn.</hi>
+               </item>
+               <item>The Religious Aſſemblies of the Peo<g ref="char:EOLhyphen"/>ple call'd <hi>Quakers</hi> Vindicated.</item>
+               <item>A legal Exam. of Abuſes of Law.</item>
+               <item>
+                  <hi>Lawſon</hi>'s Treatiſe concerning the ſeven Liberal Arts.</item>
+               <item>Tythes Ended by Chriſt, by <hi>W. Gibſon.</hi>
+               </item>
+               <item>Warning to <hi>England</hi> in general.</item>
+               <item>Warning to <hi>London</hi> in particular.</item>
+               <item>Truth and Innocency Defended, by <hi>R. Vickris.</hi>
+               </item>
+               <item>Juſt Reprehenſion to <hi>John Norris.</hi>
+               </item>
+               <item>Some Weighty Reaſons, <hi>&amp;c.</hi> by <hi>Seb. Elithorp.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Octavo.</head>
+               <item>
+                  <hi>W. Penn</hi>'s Addreſs to Proteſtants, Second Addition.</item>
+               <item>— No Croſs, No Crown, in two Vol. the 5th Edition much Enlarged.</item>
+               <item>— Travails in <hi>Holand</hi> and <hi>Germany.</hi>
+               </item>
+               <item>— Account of the Riſe and Progreſs of the <hi>Quakers:</hi>
+               </item>
+               <item>— Call to <hi>Chriſtendom.</hi>
+               </item>
+               <item>— Tender <hi>Counſel</hi> and <hi>Advice.</hi>
+               </item>
+               <item>Memory of the Righteous Revied, in <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>
+                  <hi>Elizabeth Bathurſts</hi> Works.</item>
+               <item>Eſſay for Peace.</item>
+               <item>Treatiſe of Charity.</item>
+               <item>
+                  <hi>T. Ellwood</hi>'s Foundation of Tythes.</item>
+               <item>His Epiſtle to Friends concerning <hi>G. K.</hi>
+               </item>
+               <item>his Further Diſcovery of <hi>G. K.</hi>
+               </item>
+               <item>The State of the Caſe, between Friends at <hi>Penſilvania,</hi> and <hi>G. K.</hi>
+               </item>
+               <item>
+                  <hi>Robert Barclay</hi>'s Catechiſm.</item>
+               <item>
+                  <hi>G. F</hi>'s Inſtruction for Spelling, lately Reprinted, with large Additions.</item>
+               <item>
+                  <hi>G. F.</hi> and <hi>S. Criſp</hi>'s Now Book for Children.</item>
+               <item>Tithe no Goſpel Maintenance by <hi>W.L.</hi>
+               </item>
+               <item>Spiritual Guide.</item>
+            </list>
+            <p>Alſo for the Service of Truth, and Enouragement of the Buyer, many Antient and VVorthy Friends Books, Bound in Volumes, are Sold for half the Prize.</p>
+            <list>
+               <item>A Rational Catechiſm, or a Conference between a Father and a Son.</item>
+               <item>Good Houſe-VVife made a Doctor.</item>
+               <item>Monthly Obſervations.</item>
+               <item>Country-Man's Companion.</item>
+               <item>
+                  <hi>Ethiopian</hi> Complaint.</item>
+               <item>Treatiſe of Dreams and Viſions.</item>
+               <item>Good News for the Poor.</item>
+               <item>Dr. <hi>Chamberlin</hi>'s Queries Relating to Phyſick.</item>
+               <item>
+                  <hi>Averroes</hi> and <hi>Pythagoras</hi> Letters.</item>
+               <item>Three Tracts of the Great Medicines.</item>
+               <item>
+                  <hi>Philadelphia,</hi> or Brotherly Love, <hi>&amp;c.</hi>
+               </item>
+               <item>Pax Redux, or Chriſtian Reconciler.</item>
+               <item>
+                  <hi>Culpeper</hi>'s Diſpenſitory.</item>
+               <item>His Engliſh Puiſitian, <hi>&amp;c.</hi>
+               </item>
+               <item>Bibles, Teſtaments, Paper Books, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
